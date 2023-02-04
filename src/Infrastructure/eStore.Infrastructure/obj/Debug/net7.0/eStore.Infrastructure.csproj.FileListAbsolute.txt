@@ -1,0 +1,12 @@
+C:\Users\MSmagi\source\repos\eStore\src\Infrastructure\eStore.Infrastructure\bin\Debug\net7.0\eStore.Infrastructure.deps.json
+C:\Users\MSmagi\source\repos\eStore\src\Infrastructure\eStore.Infrastructure\bin\Debug\net7.0\eStore.Infrastructure.dll
+C:\Users\MSmagi\source\repos\eStore\src\Infrastructure\eStore.Infrastructure\bin\Debug\net7.0\eStore.Infrastructure.pdb
+C:\Users\MSmagi\source\repos\eStore\src\Infrastructure\eStore.Infrastructure\obj\Debug\net7.0\eStore.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MSmagi\source\repos\eStore\src\Infrastructure\eStore.Infrastructure\obj\Debug\net7.0\eStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSmagi\source\repos\eStore\src\Infrastructure\eStore.Infrastructure\obj\Debug\net7.0\eStore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MSmagi\source\repos\eStore\src\Infrastructure\eStore.Infrastructure\obj\Debug\net7.0\eStore.Infrastructure.AssemblyInfo.cs
+C:\Users\MSmagi\source\repos\eStore\src\Infrastructure\eStore.Infrastructure\obj\Debug\net7.0\eStore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MSmagi\source\repos\eStore\src\Infrastructure\eStore.Infrastructure\obj\Debug\net7.0\eStore.Infrastructure.dll
+C:\Users\MSmagi\source\repos\eStore\src\Infrastructure\eStore.Infrastructure\obj\Debug\net7.0\refint\eStore.Infrastructure.dll
+C:\Users\MSmagi\source\repos\eStore\src\Infrastructure\eStore.Infrastructure\obj\Debug\net7.0\eStore.Infrastructure.pdb
+C:\Users\MSmagi\source\repos\eStore\src\Infrastructure\eStore.Infrastructure\obj\Debug\net7.0\ref\eStore.Infrastructure.dll
